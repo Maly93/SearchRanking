@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/alym/My Documents/jars/google-api-customsearch-v1-rev5-java-1.7.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/alym/My Documents/jars/httpclient-4.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/alym/My Documents/jars/google-api-client-1.10.1-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/alym/My Documents/jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/alym/My Documents/jars/google-http-client-1.10.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/alym/My Documents/jars/gson-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/alym/My Documents/jars/guava-11.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/alym/My Documents/jars/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/alym/My Documents/jars/jackson-core-asl-1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/alym/My Documents/jars/jdo2-api-2.3-eb.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/alym/My Documents/jars/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/alym/My Documents/jars/protobuf-java-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/alym/My Documents/jars/transaction-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/alym/My Documents/jars/xpp3-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/alym/My Documents/jars/slf4j-nop-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/alym/My Documents/jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/alym/My Documents/jars/google-oauth-client-1.10.0-beta.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
